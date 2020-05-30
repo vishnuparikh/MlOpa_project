@@ -1,9 +1,9 @@
 import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
-host_address = "devmax70@gmail.com"
+host_address = "vmparikh123@gmail.com"
 host_pass = "*****"
-guest_address = "devmax72@gmail.com"
+guest_address = "vmparikh123@gmail.com"
 subject = "Regarding failure of main.py"
 content = '''Hello, 
 				Developer this is an email regarding to your last commit. It seems that your main.py is not working properly please check it once and recommit.
